@@ -44,7 +44,7 @@ static void noui_InitMessage(const std::string &message)
 
 void noui_connect()
 {
-    // Connect gadalfcoind signal handlers
+    // Connect gandalfcoind signal handlers
     uiInterface.ThreadSafeMessageBox.connect(noui_ThreadSafeMessageBox);
     uiInterface.ThreadSafeAskFee.connect(noui_ThreadSafeAskFee);
     uiInterface.InitMessage.connect(noui_InitMessage);

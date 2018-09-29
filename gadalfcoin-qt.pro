@@ -1,7 +1,7 @@
 TEMPLATE = app
-TARGET = gadalfcoin-qt
-macx:TARGET = "GadalfCoin-Qt"
-VERSION = 0.9.0
+TARGET = gandalfcoin-qt
+macx:TARGET = "GandalfCoin-Qt"
+VERSION = 1.0.0
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
@@ -310,7 +310,7 @@ SOURCES += src/qt/test/test_main.cpp \
 HEADERS += src/qt/test/uritests.h
 DEPENDPATH += src/qt/test
 QT += testlib
-TARGET = gadalfcoin-qt_test
+TARGET = gandalfcoin-qt_test
 DEFINES += BITCOIN_QT_TEST
   macx: CONFIG -= app_bundle
 }

@@ -35,7 +35,7 @@ public:
         // Build the genesis block. Note that the output of the genesis coinbase cannot
         // be spent as it did not originally exist in the database.
   
-        const char* pszTimestamp = "GadalfCoin";
+        const char* pszTimestamp = "GandalfCoin";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -125,7 +125,7 @@ public:
 
         vFixedSeeds.clear();
         vSeeds.clear();
-        // vSeeds.push_back(CDNSSeedData("gadalfcoin.test", "test.gadalfcoin.org"));
+        // vSeeds.push_back(CDNSSeedData("gandalfcoin.test", "test.gandalfcoin.org"));
 
         base58Prefixes[PUBKEY_ADDRESS] = 130;
         base58Prefixes[SCRIPT_ADDRESS] = 30;

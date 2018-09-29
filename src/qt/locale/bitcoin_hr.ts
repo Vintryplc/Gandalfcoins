@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GadalfCoin</source>
-        <translation>O GadalfCoin-u</translation>
+        <source>About GandalfCoin</source>
+        <translation>O GandalfCoin-u</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GadalfCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GadalfCoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;GandalfCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;GandalfCoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The GadalfCoin developers</source>
+        <source>The GandalfCoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your GadalfCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ovo su vaše GadalfCoin adrese za primanje isplate. Možda želite dati drukčiju adresu svakom primatelju tako da možete pratiti tko je platio.</translation>
+        <source>These are your GandalfCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ovo su vaše GandalfCoin adrese za primanje isplate. Možda želite dati drukčiju adresu svakom primatelju tako da možete pratiti tko je platio.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,7 +77,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GadalfCoin address</source>
+        <source>Sign a message to prove you own a GandalfCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -102,7 +102,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified GadalfCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified GandalfCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -117,7 +117,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your GadalfCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your GandalfCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>GadalfCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gadalfcoins from being stolen by malware infecting your computer.</source>
-        <translation>GadalfCoin će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše gadalfcoine od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
+        <source>GandalfCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gandalfcoins from being stolen by malware infecting your computer.</source>
+        <translation>GandalfCoin će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše gandalfcoine od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GadalfCoin</source>
-        <translation>Prikaži informacije o GadalfCoinu</translation>
+        <source>Show information about GandalfCoin</source>
+        <translation>Prikaži informacije o GandalfCoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a GadalfCoin address</source>
-        <translation>Slanje novca na gadalfcoin adresu</translation>
+        <source>Send coins to a GandalfCoin address</source>
+        <translation>Slanje novca na gandalfcoin adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for GadalfCoin</source>
-        <translation>Promijeni postavke konfiguracije za gadalfcoin</translation>
+        <source>Modify configuration options for GandalfCoin</source>
+        <translation>Promijeni postavke konfiguracije za gandalfcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>GadalfCoin</source>
-        <translation>GadalfCoin</translation>
+        <source>GandalfCoin</source>
+        <translation>GandalfCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About GadalfCoin</source>
-        <translation>&amp;O GadalfCoinu</translation>
+        <source>&amp;About GandalfCoin</source>
+        <translation>&amp;O GandalfCoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,12 +495,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your GadalfCoin addresses to prove you own them</source>
+        <source>Sign messages with your GandalfCoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified GadalfCoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified GandalfCoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>GadalfCoin client</source>
-        <translation>GadalfCoin klijent</translation>
+        <source>GandalfCoin client</source>
+        <translation>GandalfCoin klijent</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to GadalfCoin network</source>
-        <translation><numerusform>%n aktivna veza na GadalfCoin mrežu</numerusform><numerusform>%n aktivne veze na GadalfCoin mrežu</numerusform><numerusform>%n aktivnih veza na GadalfCoin mrežu</numerusform></translation>
+        <source>%n active connection(s) to GandalfCoin network</source>
+        <translation><numerusform>%n aktivna veza na GandalfCoin mrežu</numerusform><numerusform>%n aktivne veze na GandalfCoin mrežu</numerusform><numerusform>%n aktivnih veza na GandalfCoin mrežu</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -651,7 +651,7 @@ Adresa:%4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid GadalfCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid GandalfCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -666,7 +666,7 @@ Adresa:%4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. GadalfCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. GandalfCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -732,8 +732,8 @@ Adresa:%4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GadalfCoin address.</source>
-        <translation>Upisana adresa &quot;%1&quot; nije valjana gadalfcoin adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid GandalfCoin address.</source>
+        <translation>Upisana adresa &quot;%1&quot; nije valjana gandalfcoin adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -751,7 +751,7 @@ Adresa:%4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>GadalfCoin-Qt</source>
+        <source>GandalfCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -814,13 +814,13 @@ Adresa:%4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GadalfCoin after logging in to the system.</source>
-        <translation>Automatski pokreni GadalfCoin kad se uključi računalo</translation>
+        <source>Automatically start GandalfCoin after logging in to the system.</source>
+        <translation>Automatski pokreni GandalfCoin kad se uključi računalo</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GadalfCoin on system login</source>
-        <translation>&amp;Pokreni GadalfCoin kod pokretanja sustava</translation>
+        <source>&amp;Start GandalfCoin on system login</source>
+        <translation>&amp;Pokreni GandalfCoin kod pokretanja sustava</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -839,8 +839,8 @@ Adresa:%4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GadalfCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port GadalfCoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the GandalfCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port GandalfCoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -849,7 +849,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GadalfCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the GandalfCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Spojite se na Bitcon mrežu putem SOCKS proxy-a (npr. kod povezivanja kroz Tor)</translation>
     </message>
     <message>
@@ -924,7 +924,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GadalfCoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting GandalfCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -935,11 +935,11 @@ Adresa:%4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izaberite željeni najmanji dio gadalfcoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
+        <translation>Izaberite željeni najmanji dio gandalfcoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GadalfCoin addresses in the transaction list or not.</source>
+        <source>Whether to show GandalfCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -991,7 +991,7 @@ Adresa:%4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GadalfCoin.</source>
+        <source>This setting will take effect after restarting GandalfCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1010,7 +1010,7 @@ Adresa:%4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GadalfCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GandalfCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1064,7 +1064,7 @@ Adresa:%4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gadalfcoin: click-to-pay handler</source>
+        <source>Cannot start gandalfcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1214,7 +1214,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GadalfCoin-Qt help message to get a list with possible GadalfCoin command-line options.</source>
+        <source>Show the GandalfCoin-Qt help message to get a list with possible GandalfCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1234,12 +1234,12 @@ Adresa:%4
     </message>
     <message>
         <location line="-104"/>
-        <source>GadalfCoin - Debug window</source>
+        <source>GandalfCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>GadalfCoin Core</source>
+        <source>GandalfCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1249,7 +1249,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GadalfCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the GandalfCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1259,7 +1259,7 @@ Adresa:%4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the GadalfCoin RPC console.</source>
+        <source>Welcome to the GandalfCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1443,8 +1443,8 @@ Adresa:%4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GadalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Unesite GadalfCoin adresu (npr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Unesite GandalfCoin adresu (npr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1467,7 +1467,7 @@ Adresa:%4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Unesite GadalfCoin adresu (npr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Unesite GandalfCoin adresu (npr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1508,7 +1508,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GadalfCoin address</source>
+        <source>Sign the message to prove you own this GandalfCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1540,11 +1540,11 @@ Adresa:%4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Unesite GadalfCoin adresu (npr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Unesite GandalfCoin adresu (npr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GadalfCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified GandalfCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1560,8 +1560,8 @@ Adresa:%4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GadalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Unesite GadalfCoin adresu (npr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Unesite GandalfCoin adresu (npr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1570,7 +1570,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GadalfCoin signature</source>
+        <source>Enter GandalfCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1644,7 +1644,7 @@ Adresa:%4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The GadalfCoin developers</source>
+        <source>The GandalfCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2182,8 +2182,8 @@ Adresa:%4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>GadalfCoin version</source>
-        <translation>GadalfCoin verzija</translation>
+        <source>GandalfCoin version</source>
+        <translation>GandalfCoin verzija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2192,8 +2192,8 @@ Adresa:%4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gadalfcoind</source>
-        <translation>Pošalji komandu usluzi -server ili gadalfcoind</translation>
+        <source>Send command to -server or gandalfcoind</source>
+        <translation>Pošalji komandu usluzi -server ili gandalfcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2212,13 +2212,13 @@ Adresa:%4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gadalfcoin.conf)</source>
-        <translation>Odredi konfiguracijsku datoteku (ugrađeni izbor: gadalfcoin.conf)</translation>
+        <source>Specify configuration file (default: gandalfcoin.conf)</source>
+        <translation>Odredi konfiguracijsku datoteku (ugrađeni izbor: gandalfcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gadalfcoind.pid)</source>
-        <translation>Odredi proces ID datoteku (ugrađeni izbor: gadalfcoin.pid)</translation>
+        <source>Specify pid file (default: gandalfcoind.pid)</source>
+        <translation>Odredi proces ID datoteku (ugrađeni izbor: gandalfcoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2295,13 +2295,13 @@ Adresa:%4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gadalfcoinrpc
+rpcuser=gandalfcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2317,7 +2317,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. GadalfCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. GandalfCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2362,8 +2362,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GadalfCoin will not work properly.</source>
-        <translation>Upozorenje: Molimo provjerite jesu li datum i vrijeme na vašem računalu točni. Ako vaš sat ide krivo, GadalfCoin neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GandalfCoin will not work properly.</source>
+        <translation>Upozorenje: Molimo provjerite jesu li datum i vrijeme na vašem računalu točni. Ako vaš sat ide krivo, GandalfCoin neće raditi ispravno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2612,8 +2612,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the GadalfCoin Wiki for SSL setup instructions)</source>
-        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi GadalfCoin Wiki)</translation>
+        <source>SSL options: (see the GandalfCoin Wiki for SSL setup instructions)</source>
+        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi GandalfCoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2802,13 +2802,13 @@ for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GadalfCoin</source>
-        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju GadalfCoina</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GandalfCoin</source>
+        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju GandalfCoina</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart GadalfCoin to complete</source>
-        <translation>Novčanik je trebao prepravak: ponovo pokrenite GadalfCoin</translation>
+        <source>Wallet needed to be rewritten: restart GandalfCoin to complete</source>
+        <translation>Novčanik je trebao prepravak: ponovo pokrenite GandalfCoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2867,8 +2867,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. GadalfCoin is probably already running.</source>
-        <translation>Program ne može koristiti %s na ovom računalu.  GadalfCoin program je vjerojatno već pokrenut.</translation>
+        <source>Unable to bind to %s on this computer. GandalfCoin is probably already running.</source>
+        <translation>Program ne može koristiti %s na ovom računalu.  GandalfCoin program je vjerojatno već pokrenut.</translation>
     </message>
     <message>
         <location line="+64"/>

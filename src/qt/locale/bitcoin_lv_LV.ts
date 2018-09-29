@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GadalfCoin</source>
-        <translation>Par GadalfCoin</translation>
+        <source>About GandalfCoin</source>
+        <translation>Par GandalfCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GadalfCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GadalfCoin&lt;/b&gt; versija</translation>
+        <source>&lt;b&gt;GandalfCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;GandalfCoin&lt;/b&gt; versija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The GadalfCoin developers</source>
+        <source>The GandalfCoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,7 +62,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your GadalfCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your GandalfCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -77,7 +77,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GadalfCoin address</source>
+        <source>Sign a message to prove you own a GandalfCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -102,7 +102,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified GadalfCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified GandalfCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -117,7 +117,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your GadalfCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your GandalfCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>GadalfCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gadalfcoins from being stolen by malware infecting your computer.</source>
-        <translation>GadalfCoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst bitkoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
+        <source>GandalfCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gandalfcoins from being stolen by malware infecting your computer.</source>
+        <translation>GandalfCoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst bitkoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GadalfCoin</source>
-        <translation>Parādīt informāciju par GadalfCoin</translation>
+        <source>Show information about GandalfCoin</source>
+        <translation>Parādīt informāciju par GandalfCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a GadalfCoin address</source>
-        <translation>Nosūtīt bitkoinus uz GadalfCoin adresi</translation>
+        <source>Send coins to a GandalfCoin address</source>
+        <translation>Nosūtīt bitkoinus uz GandalfCoin adresi</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for GadalfCoin</source>
-        <translation>Mainīt GadalfCoin konfigurācijas uzstādījumus</translation>
+        <source>Modify configuration options for GandalfCoin</source>
+        <translation>Mainīt GandalfCoin konfigurācijas uzstādījumus</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,7 +450,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>GadalfCoin</source>
+        <source>GandalfCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -475,7 +475,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About GadalfCoin</source>
+        <source>&amp;About GandalfCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -495,12 +495,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your GadalfCoin addresses to prove you own them</source>
+        <source>Sign messages with your GandalfCoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified GadalfCoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified GandalfCoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>GadalfCoin client</source>
-        <translation>GadalfCoin klients</translation>
+        <source>GandalfCoin client</source>
+        <translation>GandalfCoin klients</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to GadalfCoin network</source>
-        <translation><numerusform>%n aktīvu savienojumu ar GadalfCoin tīklu</numerusform><numerusform>%n aktīvs savienojums ar GadalfCoin tīklu</numerusform><numerusform>%n aktīvu savienojumu as GadalfCoin tīklu</numerusform></translation>
+        <source>%n active connection(s) to GandalfCoin network</source>
+        <translation><numerusform>%n aktīvu savienojumu ar GandalfCoin tīklu</numerusform><numerusform>%n aktīvs savienojums ar GandalfCoin tīklu</numerusform><numerusform>%n aktīvu savienojumu as GandalfCoin tīklu</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -651,7 +651,7 @@ Adrese: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid GadalfCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid GandalfCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -666,7 +666,7 @@ Adrese: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. GadalfCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. GandalfCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -732,8 +732,8 @@ Adrese: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GadalfCoin address.</source>
-        <translation>Ierakstītā adrese &quot;%1&quot; nav derīga GadalfCoin adrese.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid GandalfCoin address.</source>
+        <translation>Ierakstītā adrese &quot;%1&quot; nav derīga GandalfCoin adrese.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -751,8 +751,8 @@ Adrese: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>GadalfCoin-Qt</source>
-        <translation>GadalfCoin-Qt</translation>
+        <source>GandalfCoin-Qt</source>
+        <translation>GandalfCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -814,13 +814,13 @@ Adrese: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GadalfCoin after logging in to the system.</source>
-        <translation>Automātiski sākt GadalfCoin pēc pieteikšanās sistēmā.</translation>
+        <source>Automatically start GandalfCoin after logging in to the system.</source>
+        <translation>Automātiski sākt GandalfCoin pēc pieteikšanās sistēmā.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GadalfCoin on system login</source>
-        <translation>&amp;Sākt GadalfCoin reizē ar sistēmu</translation>
+        <source>&amp;Start GandalfCoin on system login</source>
+        <translation>&amp;Sākt GandalfCoin reizē ar sistēmu</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -839,8 +839,8 @@ Adrese: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GadalfCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt GadalfCoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <source>Automatically open the GandalfCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Uz rūtera automātiski atvērt GandalfCoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -849,7 +849,7 @@ Adrese: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GadalfCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the GandalfCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -924,8 +924,8 @@ Adrese: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GadalfCoin.</source>
-        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc GadalfCoin pārstartēšanas.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GandalfCoin.</source>
+        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc GandalfCoin pārstartēšanas.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -939,8 +939,8 @@ Adrese: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GadalfCoin addresses in the transaction list or not.</source>
-        <translation>Rādīt vai nē GadalfCoin adreses transakciju sarakstā.</translation>
+        <source>Whether to show GandalfCoin addresses in the transaction list or not.</source>
+        <translation>Rādīt vai nē GandalfCoin adreses transakciju sarakstā.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -991,7 +991,7 @@ Adrese: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GadalfCoin.</source>
+        <source>This setting will take effect after restarting GandalfCoin.</source>
         <translation>Iestatījums aktivizēsies pēc Bitkoin pārstartēšanas.</translation>
     </message>
     <message>
@@ -1010,8 +1010,8 @@ Adrese: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GadalfCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar GadalfCoin tīklu, taču šis process vēl nav beidzies.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GandalfCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar GandalfCoin tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1064,7 +1064,7 @@ Adrese: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gadalfcoin: click-to-pay handler</source>
+        <source>Cannot start gandalfcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1214,7 +1214,7 @@ Adrese: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GadalfCoin-Qt help message to get a list with possible GadalfCoin command-line options.</source>
+        <source>Show the GandalfCoin-Qt help message to get a list with possible GandalfCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1234,12 +1234,12 @@ Adrese: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>GadalfCoin - Debug window</source>
+        <source>GandalfCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>GadalfCoin Core</source>
+        <source>GandalfCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1249,7 +1249,7 @@ Adrese: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GadalfCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the GandalfCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1259,8 +1259,8 @@ Adrese: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the GadalfCoin RPC console.</source>
-        <translation>Laipni lūgti GadalfCoin RPC konsolē.</translation>
+        <source>Welcome to the GandalfCoin RPC console.</source>
+        <translation>Laipni lūgti GandalfCoin RPC konsolē.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1443,8 +1443,8 @@ Adrese: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GadalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Ierakstiet GadalfCoin adresi (piem. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Ierakstiet GandalfCoin adresi (piem. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1508,7 +1508,7 @@ Adrese: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GadalfCoin address</source>
+        <source>Sign the message to prove you own this GandalfCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1544,7 +1544,7 @@ Adrese: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GadalfCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified GandalfCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1560,8 +1560,8 @@ Adrese: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GadalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Ierakstiet GadalfCoin adresi (piem. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Ierakstiet GandalfCoin adresi (piem. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1570,7 +1570,7 @@ Adrese: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GadalfCoin signature</source>
+        <source>Enter GandalfCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1644,7 +1644,7 @@ Adrese: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The GadalfCoin developers</source>
+        <source>The GandalfCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2182,8 +2182,8 @@ Adrese: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>GadalfCoin version</source>
-        <translation>GadalfCoin versija</translation>
+        <source>GandalfCoin version</source>
+        <translation>GandalfCoin versija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2192,8 +2192,8 @@ Adrese: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gadalfcoind</source>
-        <translation>Nosūtīt komantu uz -server vai gadalfcoind</translation>
+        <source>Send command to -server or gandalfcoind</source>
+        <translation>Nosūtīt komantu uz -server vai gandalfcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2212,13 +2212,13 @@ Adrese: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gadalfcoin.conf)</source>
-        <translation>Norādiet konfigurācijas failu (pēc noklusēšanas: gadalfcoin.conf)</translation>
+        <source>Specify configuration file (default: gandalfcoin.conf)</source>
+        <translation>Norādiet konfigurācijas failu (pēc noklusēšanas: gandalfcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gadalfcoind.pid)</source>
-        <translation>Norādiet pid failu (pēc noklusēšanas: gadalfcoind.pid)</translation>
+        <source>Specify pid file (default: gandalfcoind.pid)</source>
+        <translation>Norādiet pid failu (pēc noklusēšanas: gandalfcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2295,13 +2295,13 @@ Adrese: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gadalfcoinrpc
+rpcuser=gandalfcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2317,7 +2317,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. GadalfCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. GandalfCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2362,7 +2362,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GadalfCoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GandalfCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2612,7 +2612,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the GadalfCoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the GandalfCoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2802,13 +2802,13 @@ for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GadalfCoin</source>
-        <translation>Nevar ielādēt wallet.dat: maciņa atvēršanai nepieciešama jaunāka GadalfCoin versija</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GandalfCoin</source>
+        <translation>Nevar ielādēt wallet.dat: maciņa atvēršanai nepieciešama jaunāka GandalfCoin versija</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart GadalfCoin to complete</source>
-        <translation>Bija nepieciešams pārstartēt maciņu: pabeigšanai pārstartējiet GadalfCoin</translation>
+        <source>Wallet needed to be rewritten: restart GandalfCoin to complete</source>
+        <translation>Bija nepieciešams pārstartēt maciņu: pabeigšanai pārstartējiet GandalfCoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2867,8 +2867,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GadalfCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. GadalfCoin is probably already running.</source>
-        <translation>Nevar pievienoties %s uz šī datora. GadalfCoin droši vien jau darbojas.</translation>
+        <source>Unable to bind to %s on this computer. GandalfCoin is probably already running.</source>
+        <translation>Nevar pievienoties %s uz šī datora. GandalfCoin droši vien jau darbojas.</translation>
     </message>
     <message>
         <location line="+64"/>

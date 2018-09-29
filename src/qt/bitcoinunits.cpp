@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("GadalfCoin");
-    case mBTC: return QString("MilliGadalfCoin (1 / 1,000)");
-    case uBTC: return QString("MicroGadalfCoin (1 / 1,000,000)");
+    case BTC: return QString("GandalfCoin");
+    case mBTC: return QString("MilliGandalfCoin (1 / 1,000)");
+    case uBTC: return QString("MicroGandalfCoin (1 / 1,000,000)");
     default: return QString("???");
     }
 }
