@@ -35,7 +35,7 @@ public:
         // Build the genesis block. Note that the output of the genesis coinbase cannot
         // be spent as it did not originally exist in the database.
   
-        const char* pszTimestamp = "GandalfCoin";
+        const char* pszTimestamp = "GadalfCoin";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -52,7 +52,16 @@ public:
         
         //// debug print
         hashGenesisBlock = genesis.GetHash();
-                
+        while (hashGenesisBlock > bnProofOfWorkLimit.getuint256()){
+            if (++genesis.nNonce==0) break;
+            hashGenesisBlock = genesis.GetHash();
+        }
+
+        printf("%s\n", hashGenesisBlock.ToString().c_str());
+        printf("%s\n", genesis.hashMerkleRoot.ToString().c_str());
+        printf("%x\n", bnProofOfWorkLimit.GetCompact());
+        genesis.print();
+		
         assert(hashGenesisBlock == uint256("0x00000597c8f7ff14ea2e8fe0724ea79015fba6f79e650e54b5ca3d6a7e3dd327"));
         assert(genesis.hashMerkleRoot == uint256("0x456f93bcaa2241d3281d99fd53195f7a5f780dd995b3c9fb6424b22da6e0e980"));
 
