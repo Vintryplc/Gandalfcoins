@@ -1,0 +1,34 @@
+src/*.exe
+src/gadalfcoin
+src/gadalfcoind
+src/test_gadalfcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.gadalfcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+gadalfcoin-qt
+gadalfcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+gadalfcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb-*/Makefile
