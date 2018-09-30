@@ -35,7 +35,7 @@ bool AppInit(int argc, char* argv[])
         //
         // Parameters
         //
-        // If Qt is used, parameters/gandalfcoin.conf are parsed in qt/bitcoin.cpp's main()
+        // If Qt is used, parameters/gandalfcoins.conf are parsed in qt/bitcoin.cpp's main()
         ParseParameters(argc, argv);
         if (!boost::filesystem::is_directory(GetDataDir(false)))
         {
@@ -46,13 +46,13 @@ bool AppInit(int argc, char* argv[])
 
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
-            // First part of help message is specific to gandalfcoind / RPC client
-            std::string strUsage = _("GandalfCoin version") + " " + FormatFullVersion() + "\n\n" +
+            // First part of help message is specific to gandalfcoinsd / RPC client
+            std::string strUsage = _("GandalfCoins version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  gandalfcoind [options]                     " + "\n" +
-                  "  gandalfcoind [options] <command> [params]  " + _("Send command to -server or gandalfcoind") + "\n" +
-                  "  gandalfcoind [options] help                " + _("List commands") + "\n" +
-                  "  gandalfcoind [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  gandalfcoinsd [options]                     " + "\n" +
+                  "  gandalfcoinsd [options] <command> [params]  " + _("Send command to -server or gandalfcoinsd") + "\n" +
+                  "  gandalfcoinsd [options] help                " + _("List commands") + "\n" +
+                  "  gandalfcoinsd [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -62,7 +62,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "gandalfcoin:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "gandalfcoins:"))
                 fCommandLine = true;
 
         if (fCommandLine)
@@ -129,7 +129,7 @@ int main(int argc, char* argv[])
     bool fRet = false;
     fHaveGUI = false;
 
-    // Connect gandalfcoind signal handlers
+    // Connect gandalfcoinsd signal handlers
     noui_connect();
 
     fRet = AppInit(argc, argv);

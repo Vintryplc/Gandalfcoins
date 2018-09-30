@@ -109,10 +109,10 @@ OBJS= \
     obj/chainparams.o
 
 
-all: gandalfcoind.exe
+all: gandalfcoinsd.exe
 
-test check: test_gandalfcoin.exe FORCE
-	test_gandalfcoin.exe
+test check: test_gandalfcoins.exe FORCE
+	test_gandalfcoins.exe
 
 #
 # LevelDB support
@@ -126,7 +126,7 @@ leveldb/libleveldb.a:
 obj/%.o: %.cpp $(HEADERS)
 	$(CXX) -c $(CFLAGS) -o $@ $<
 
-gandalfcoind.exe: $(OBJS:obj/%=obj/%)
+gandalfcoinsd.exe: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -134,11 +134,11 @@ TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
 obj-test/%.o: test/%.cpp $(HEADERS)
 	$(CXX) -c $(TESTDEFS) $(CFLAGS) -o $@ $<
 
-test_gandalfcoin.exe: $(TESTOBJS) $(filter-out obj/init.o obj/gandalfcoind.o,$(OBJS:obj/%=obj/%))
+test_gandalfcoins.exe: $(TESTOBJS) $(filter-out obj/init.o obj/gandalfcoinsd.o,$(OBJS:obj/%=obj/%))
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ -lboost_unit_test_framework$(BOOST_SUFFIX) $(LIBS)
 
 clean:
-	rm -f gandalfcoind.exe test_gandalfcoin.exe
+	rm -f gandalfcoinsd.exe test_gandalfcoins.exe
 	rm -f obj/*
 	rm -f obj-test/*
 	cd leveldb && $(MAKE) TARGET_OS=NATIVE_WINDOWS clean && cd ..

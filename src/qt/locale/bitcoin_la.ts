@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GandalfCoin</source>
-        <translation>Informatio de GandalfCoin</translation>
+        <source>About GandalfCoins</source>
+        <translation>Informatio de GandalfCoins</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GandalfCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GandalfCoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;GandalfCoins&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;GandalfCoins&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,8 +33,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+0"/>
-        <source>The GandalfCoin developers</source>
-        <translation>GandalfCoin curatores</translation>
+        <source>The GandalfCoins developers</source>
+        <translation>GandalfCoins curatores</translation>
     </message>
 </context>
 <context>
@@ -66,8 +66,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your GandalfCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Haec sunt inscriptiones GandalfCoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
+        <source>These are your GandalfCoins addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Haec sunt inscriptiones GandalfCoins tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GandalfCoin address</source>
-        <translation>Signa nuntium ut demonstres inscriptionem GandalfCoin a te possessam esse</translation>
+        <source>Sign a message to prove you own a GandalfCoins address</source>
+        <translation>Signa nuntium ut demonstres inscriptionem GandalfCoins a te possessam esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified GandalfCoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione GandalfCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified GandalfCoins address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione GandalfCoins</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your GandalfCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your GandalfCoins addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hae sunt inscriptiones mittendi pensitationes.  Semper inspice quantitatem et inscriptionem accipiendi antequam nummos mittis.</translation>
     </message>
     <message>
@@ -274,8 +274,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-56"/>
-        <source>GandalfCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gandalfcoins from being stolen by malware infecting your computer.</source>
-        <translation>GandalfCoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
+        <source>GandalfCoins will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gandalfcoinss from being stolen by malware infecting your computer.</source>
+        <translation>GandalfCoins iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GandalfCoin</source>
-        <translation>Monstra informationem de GandalfCoin</translation>
+        <source>Show information about GandalfCoins</source>
+        <translation>Monstra informationem de GandalfCoins</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a GandalfCoin address</source>
-        <translation>Mitte nummos ad inscriptionem GandalfCoin</translation>
+        <source>Send coins to a GandalfCoins address</source>
+        <translation>Mitte nummos ad inscriptionem GandalfCoins</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for GandalfCoin</source>
-        <translation>Muta configurationis optiones pro GandalfCoin</translation>
+        <source>Modify configuration options for GandalfCoins</source>
+        <translation>Muta configurationis optiones pro GandalfCoins</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>GandalfCoin</source>
-        <translation>GandalfCoin</translation>
+        <source>GandalfCoins</source>
+        <translation>GandalfCoins</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About GandalfCoin</source>
-        <translation>&amp;Informatio de GandalfCoin</translation>
+        <source>&amp;About GandalfCoins</source>
+        <translation>&amp;Informatio de GandalfCoins</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,13 +499,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your GandalfCoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus GandalfCoin ut demonstres te eas possidere</translation>
+        <source>Sign messages with your GandalfCoins addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus GandalfCoins ut demonstres te eas possidere</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified GandalfCoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus GandalfCoin</translation>
+        <source>Verify messages to ensure they were signed with specified GandalfCoins addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus GandalfCoins</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -535,13 +535,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+47"/>
-        <source>GandalfCoin client</source>
-        <translation>GandalfCoin cliens</translation>
+        <source>GandalfCoins client</source>
+        <translation>GandalfCoins cliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to GandalfCoin network</source>
-        <translation><numerusform>%n activa conexio ad rete GandalfCoin</numerusform><numerusform>%n activae conexiones ad rete GandalfCoin</numerusform></translation>
+        <source>%n active connection(s) to GandalfCoins network</source>
+        <translation><numerusform>%n activa conexio ad rete GandalfCoins</numerusform><numerusform>%n activae conexiones ad rete GandalfCoins</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Inscriptio: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid GandalfCoin address or malformed URI parameters.</source>
-        <translation>URI intellegi non posse!  Huius causa possit inscriptionem GandalfCoin non validam aut URI parametra maleformata.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid GandalfCoins address or malformed URI parameters.</source>
+        <translation>URI intellegi non posse!  Huius causa possit inscriptionem GandalfCoins non validam aut URI parametra maleformata.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. GandalfCoin can no longer continue safely and will quit.</source>
-        <translation>Error fatalis accidit.  GandalfCoin nondum pergere tute potest, et exibit.</translation>
+        <source>A fatal error occurred. GandalfCoins can no longer continue safely and will quit.</source>
+        <translation>Error fatalis accidit.  GandalfCoins nondum pergere tute potest, et exibit.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GandalfCoin address.</source>
-        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio GandalfCoin est.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid GandalfCoins address.</source>
+        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio GandalfCoins est.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Inscriptio: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>GandalfCoin-Qt</source>
-        <translation>GandalfCoin-Qt</translation>
+        <source>GandalfCoins-Qt</source>
+        <translation>GandalfCoins-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GandalfCoin after logging in to the system.</source>
-        <translation>Pelle GandalfCoin per se postquam in systema inire.</translation>
+        <source>Automatically start GandalfCoins after logging in to the system.</source>
+        <translation>Pelle GandalfCoins per se postquam in systema inire.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GandalfCoin on system login</source>
-        <translation>&amp;Pelle GandalfCoin cum inire systema</translation>
+        <source>&amp;Start GandalfCoins on system login</source>
+        <translation>&amp;Pelle GandalfCoins cum inire systema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GandalfCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis GandalfCoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the GandalfCoins client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis GandalfCoins in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GandalfCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecte ad rete GandalfCoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
+        <source>Connect to the GandalfCoins network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecte ad rete GandalfCoins per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GandalfCoin.</source>
-        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam GandalfCoin iterum initiatum erit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GandalfCoins.</source>
+        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam GandalfCoins iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GandalfCoin addresses in the transaction list or not.</source>
-        <translation>Num monstrare inscriptiones GandalfCoin in enumeratione transactionum.</translation>
+        <source>Whether to show GandalfCoins addresses in the transaction list or not.</source>
+        <translation>Num monstrare inscriptiones GandalfCoins in enumeratione transactionum.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Inscriptio: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GandalfCoin.</source>
-        <translation>Haec configuratio effectiva erit postquam GandalfCoin iterum initiatum erit.</translation>
+        <source>This setting will take effect after restarting GandalfCoins.</source>
+        <translation>Haec configuratio effectiva erit postquam GandalfCoins iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Inscriptio: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GandalfCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete GandalfCoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GandalfCoins network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete GandalfCoins postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1068,8 +1068,8 @@ Inscriptio: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gandalfcoin: click-to-pay handler</source>
-        <translation>GandalfCoin incipere non potest: cliccare-ad-pensandum handler</translation>
+        <source>Cannot start gandalfcoins: click-to-pay handler</source>
+        <translation>GandalfCoins incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GandalfCoin-Qt help message to get a list with possible GandalfCoin command-line options.</source>
-        <translation>Monstra nuntium auxilii GandalfCoin-Qt ut videas enumerationem possibilium optionum GandalfCoin mandati initiantis.</translation>
+        <source>Show the GandalfCoins-Qt help message to get a list with possible GandalfCoins command-line options.</source>
+        <translation>Monstra nuntium auxilii GandalfCoins-Qt ut videas enumerationem possibilium optionum GandalfCoins mandati initiantis.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>GandalfCoin - Debug window</source>
-        <translation>GandalfCoin - Fenestra debug</translation>
+        <source>GandalfCoins - Debug window</source>
+        <translation>GandalfCoins - Fenestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GandalfCoin Core</source>
-        <translation>GandalfCoin Nucleus</translation>
+        <source>GandalfCoins Core</source>
+        <translation>GandalfCoins Nucleus</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GandalfCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Aperi plicam catalogi de GandalfCoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
+        <source>Open the GandalfCoins debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Aperi plicam catalogi de GandalfCoins debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the GandalfCoin RPC console.</source>
-        <translation>Bene ventio in terminale RPC de GandalfCoin.</translation>
+        <source>Welcome to the GandalfCoins RPC console.</source>
+        <translation>Bene ventio in terminale RPC de GandalfCoins.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Insero inscriptionem GandalfCoin (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a GandalfCoins address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Insero inscriptionem GandalfCoins (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GandalfCoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem GandalfCoin a te possessa esse</translation>
+        <source>Sign the message to prove you own this GandalfCoins address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem GandalfCoins a te possessa esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GandalfCoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione GandalfCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified GandalfCoins address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione GandalfCoins</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Inscriptio: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Insere inscriptionem GandalfCoin (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a GandalfCoins address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Insere inscriptionem GandalfCoins (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GandalfCoin signature</source>
-        <translation>Insere signationem GandalfCoin</translation>
+        <source>Enter GandalfCoins signature</source>
+        <translation>Insere signationem GandalfCoins</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,8 +1648,8 @@ Inscriptio: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The GandalfCoin developers</source>
-        <translation>GandalfCoin curatores</translation>
+        <source>The GandalfCoins developers</source>
+        <translation>GandalfCoins curatores</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2186,8 +2186,8 @@ Inscriptio: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>GandalfCoin version</source>
-        <translation>Versio de GandalfCoin</translation>
+        <source>GandalfCoins version</source>
+        <translation>Versio de GandalfCoins</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gandalfcoind</source>
-        <translation>Mitte mandatum ad -server vel gandalfcoind</translation>
+        <source>Send command to -server or gandalfcoinsd</source>
+        <translation>Mitte mandatum ad -server vel gandalfcoinsd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gandalfcoin.conf)</source>
-        <translation>Specifica configurationis plicam (praedefinitum: gandalfcoin.conf)</translation>
+        <source>Specify configuration file (default: gandalfcoins.conf)</source>
+        <translation>Specifica configurationis plicam (praedefinitum: gandalfcoins.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gandalfcoind.pid)</source>
-        <translation>Specifica pid plicam (praedefinitum: gandalfcoin.pid)</translation>
+        <source>Specify pid file (default: gandalfcoinsd.pid)</source>
+        <translation>Specifica pid plicam (praedefinitum: gandalfcoins.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Inscriptio: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gandalfcoinrpc
+rpcuser=gandalfcoinsrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GandalfCoins Alert&quot; admin@foo.com
 </source>
         <translation>%s, necesse est te rpcpassword constituere in plica configurationis:
 %s
 Hortatur te hanc fortuitam tesseram uti:
-rpcuser=gandalfcoinrpc
+rpcuser=gandalfcoinsrpc
 rpcpassword=%s
 (non est necesse te hanc tesseram meminisse)
 Nomen usoris et tessera eadem esse NON POSSUNT.
 Si plica non existit, eam crea cum permissionibus ut eius dominus tantum sinitur id legere.
 Quoque hortatur alertnotify constituere ut tu notificetur de problematibus;
-exempli gratia: alertnotify=echo %%s | mail -s &quot;GandalfCoin Notificatio&quot; admin@foo.com
+exempli gratia: alertnotify=echo %%s | mail -s &quot;GandalfCoins Notificatio&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;GandalfCoin Notificatio&quo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. GandalfCoin is probably already running.</source>
-        <translation>Non posse serare datorum indicem %s.  GandalfCoin probabiliter iam operatur.</translation>
+        <source>Cannot obtain a lock on data directory %s. GandalfCoins is probably already running.</source>
+        <translation>Non posse serare datorum indicem %s.  GandalfCoins probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;GandalfCoin Notificatio&quo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GandalfCoin will not work properly.</source>
-        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, GandalfCoin non proprie fungetur.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GandalfCoins will not work properly.</source>
+        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, GandalfCoins non proprie fungetur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;GandalfCoin Notificatio&quo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the GandalfCoin Wiki for SSL setup instructions)</source>
-        <translation>Optiones SSL: (vide vici de GandalfCoin pro instructionibus SSL configurationis)</translation>
+        <source>SSL options: (see the GandalfCoins Wiki for SSL setup instructions)</source>
+        <translation>Optiones SSL: (vide vici de GandalfCoins pro instructionibus SSL configurationis)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;GandalfCoin Notificatio&quo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GandalfCoin</source>
-        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio GandalfCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GandalfCoins</source>
+        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio GandalfCoins</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart GandalfCoin to complete</source>
-        <translation>Cassidili necesse erat rescribi: Repelle GandalfCoin ut compleas</translation>
+        <source>Wallet needed to be rewritten: restart GandalfCoins to complete</source>
+        <translation>Cassidili necesse erat rescribi: Repelle GandalfCoins ut compleas</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;GandalfCoin Notificatio&quo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. GandalfCoin is probably already running.</source>
-        <translation>Non posse conglutinare ad %s in hoc cumputatro.  GandalfCoin probabiliter iam operatur.</translation>
+        <source>Unable to bind to %s on this computer. GandalfCoins is probably already running.</source>
+        <translation>Non posse conglutinare ad %s in hoc cumputatro.  GandalfCoins probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+64"/>

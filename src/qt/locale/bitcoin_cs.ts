@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GandalfCoin</source>
-        <translation>O GandalfCoinu</translation>
+        <source>About GandalfCoins</source>
+        <translation>O GandalfCoinsu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GandalfCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GandalfCoin&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;GandalfCoins&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;GandalfCoins&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The GandalfCoin developers</source>
-        <translation>Vývojáři GandalfCoinu</translation>
+        <source>The GandalfCoins developers</source>
+        <translation>Vývojáři GandalfCoinsu</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your GandalfCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tohle jsou tvé GandalfCoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
+        <source>These are your GandalfCoins addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tohle jsou tvé GandalfCoinsové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GandalfCoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem GandalfCoinové adresy</translation>
+        <source>Sign a message to prove you own a GandalfCoins address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem GandalfCoinsové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified GandalfCoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou GandalfCoinovou adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified GandalfCoins address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou GandalfCoinsovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your GandalfCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé GandalfCoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your GandalfCoins addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé GandalfCoinsové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>GandalfCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gandalfcoins from being stolen by malware infecting your computer.</source>
-        <translation>GandalfCoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých gandalfcoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>GandalfCoins will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gandalfcoinss from being stolen by malware infecting your computer.</source>
+        <translation>GandalfCoins se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých gandalfcoinsů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GandalfCoin</source>
-        <translation>Zobraz informace o GandalfCoinu</translation>
+        <source>Show information about GandalfCoins</source>
+        <translation>Zobraz informace o GandalfCoinsu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a GandalfCoin address</source>
-        <translation>Pošli mince na GandalfCoinovou adresu</translation>
+        <source>Send coins to a GandalfCoins address</source>
+        <translation>Pošli mince na GandalfCoinsovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for GandalfCoin</source>
-        <translation>Uprav nastavení GandalfCoinu</translation>
+        <source>Modify configuration options for GandalfCoins</source>
+        <translation>Uprav nastavení GandalfCoinsu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>GandalfCoin</source>
-        <translation>GandalfCoin</translation>
+        <source>GandalfCoins</source>
+        <translation>GandalfCoins</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About GandalfCoin</source>
-        <translation>O &amp;GandalfCoinu</translation>
+        <source>&amp;About GandalfCoins</source>
+        <translation>O &amp;GandalfCoinsu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your GandalfCoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými GandalfCoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your GandalfCoins addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými GandalfCoinsovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified GandalfCoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými GandalfCoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified GandalfCoins addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými GandalfCoinsovými adresami</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+47"/>
-        <source>GandalfCoin client</source>
-        <translation>GandalfCoin klient</translation>
+        <source>GandalfCoins client</source>
+        <translation>GandalfCoins klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to GandalfCoin network</source>
-        <translation><numerusform>%n aktivní spojení do GandalfCoinové sítě</numerusform><numerusform>%n aktivní spojení do GandalfCoinové sítě</numerusform><numerusform>%n aktivních spojení do GandalfCoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to GandalfCoins network</source>
+        <translation><numerusform>%n aktivní spojení do GandalfCoinsové sítě</numerusform><numerusform>%n aktivní spojení do GandalfCoinsové sítě</numerusform><numerusform>%n aktivních spojení do GandalfCoinsové sítě</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresa: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid GandalfCoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná GandalfCoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid GandalfCoins address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná GandalfCoinsová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. GandalfCoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. GandalfCoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. GandalfCoins can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. GandalfCoins nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GandalfCoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná GandalfCoinová adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid GandalfCoins address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná GandalfCoinsová adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresa: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>GandalfCoin-Qt</source>
-        <translation>GandalfCoin-Qt</translation>
+        <source>GandalfCoins-Qt</source>
+        <translation>GandalfCoins-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GandalfCoin after logging in to the system.</source>
-        <translation>Automaticky spustí GandalfCoin po přihlášení do systému.</translation>
+        <source>Automatically start GandalfCoins after logging in to the system.</source>
+        <translation>Automaticky spustí GandalfCoins po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GandalfCoin on system login</source>
-        <translation>S&amp;pustit GandalfCoin po přihlášení do systému</translation>
+        <source>&amp;Start GandalfCoins on system login</source>
+        <translation>S&amp;pustit GandalfCoins po přihlášení do systému</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +844,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GandalfCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the GandalfCoins client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -854,8 +854,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GandalfCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připojí se do GandalfCoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
+        <source>Connect to the GandalfCoins network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Připojí se do GandalfCoinsové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GandalfCoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování GandalfCoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GandalfCoins.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování GandalfCoinsu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GandalfCoin addresses in the transaction list or not.</source>
-        <translation>Zda ukazovat gandalfcoinové adresy ve výpisu transakcí nebo ne.</translation>
+        <source>Whether to show GandalfCoins addresses in the transaction list or not.</source>
+        <translation>Zda ukazovat gandalfcoinsové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adresa: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GandalfCoin.</source>
-        <translation>Nastavení se projeví až po restartování GandalfCoinu.</translation>
+        <source>This setting will take effect after restarting GandalfCoins.</source>
+        <translation>Nastavení se projeví až po restartování GandalfCoinsu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresa: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GandalfCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s GandalfCoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GandalfCoins network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s GandalfCoinsovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adresa: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gandalfcoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit gandalfcoin: obsluha click-to-pay</translation>
+        <source>Cannot start gandalfcoins: click-to-pay handler</source>
+        <translation>Nemůžu spustit gandalfcoins: obsluha click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GandalfCoin-Qt help message to get a list with possible GandalfCoin command-line options.</source>
-        <translation>Seznam parametrů GandalfCoinu pro příkazovou řádku získáš v nápovědě GandalfCoinu Qt.</translation>
+        <source>Show the GandalfCoins-Qt help message to get a list with possible GandalfCoins command-line options.</source>
+        <translation>Seznam parametrů GandalfCoinsu pro příkazovou řádku získáš v nápovědě GandalfCoinsu Qt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresa: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>GandalfCoin - Debug window</source>
-        <translation>GandalfCoin - ladicí okno</translation>
+        <source>GandalfCoins - Debug window</source>
+        <translation>GandalfCoins - ladicí okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GandalfCoin Core</source>
-        <translation>Jádro GandalfCoinu</translation>
+        <source>GandalfCoins Core</source>
+        <translation>Jádro GandalfCoinsu</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GandalfCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy GandalfCoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the GandalfCoins debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy GandalfCoinsu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the GandalfCoin RPC console.</source>
-        <translation>Vítej v GandalfCoinové RPC konzoli.</translation>
+        <source>Welcome to the GandalfCoins RPC console.</source>
+        <translation>Vítej v GandalfCoinsové RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Zadej GandalfCoinovou adresu (např. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a GandalfCoins address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Zadej GandalfCoinsovou adresu (např. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GandalfCoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této GandalfCoinové adresy</translation>
+        <source>Sign the message to prove you own this GandalfCoins address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této GandalfCoinsové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GandalfCoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou GandalfCoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified GandalfCoins address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou GandalfCoinsovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresa: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Zadej GandalfCoinovou adresu (např. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a GandalfCoins address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Zadej GandalfCoinsovou adresu (např. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GandalfCoin signature</source>
-        <translation>Vlož GandalfCoinový podpis</translation>
+        <source>Enter GandalfCoins signature</source>
+        <translation>Vlož GandalfCoinsový podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresa: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The GandalfCoin developers</source>
-        <translation>Vývojáři GandalfCoinu</translation>
+        <source>The GandalfCoins developers</source>
+        <translation>Vývojáři GandalfCoinsu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adresa: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>GandalfCoin version</source>
-        <translation>Verze GandalfCoinu</translation>
+        <source>GandalfCoins version</source>
+        <translation>Verze GandalfCoinsu</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gandalfcoind</source>
-        <translation>Poslat příkaz pro -server nebo gandalfcoind</translation>
+        <source>Send command to -server or gandalfcoinsd</source>
+        <translation>Poslat příkaz pro -server nebo gandalfcoinsd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gandalfcoin.conf)</source>
-        <translation>Konfigurační soubor (výchozí: gandalfcoin.conf)</translation>
+        <source>Specify configuration file (default: gandalfcoins.conf)</source>
+        <translation>Konfigurační soubor (výchozí: gandalfcoins.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gandalfcoind.pid)</source>
-        <translation>PID soubor (výchozí: gandalfcoind.pid)</translation>
+        <source>Specify pid file (default: gandalfcoinsd.pid)</source>
+        <translation>PID soubor (výchozí: gandalfcoinsd.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gandalfcoinrpc
+rpcuser=gandalfcoinsrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GandalfCoins Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=gandalfcoinrpc
+rpcuser=gandalfcoinsrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;GandalfCoins Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ například: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. GandalfCoin is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. GandalfCoin pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. GandalfCoins is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. GandalfCoins pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ například: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GandalfCoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, GandalfCoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GandalfCoins will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, GandalfCoins nebude fungovat správně.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ například: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the GandalfCoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL v GandalfCoin Wiki)</translation>
+        <source>SSL options: (see the GandalfCoins Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v GandalfCoins Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ například: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GandalfCoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi GandalfCoinu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GandalfCoins</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi GandalfCoinsu</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart GandalfCoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj GandalfCoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart GandalfCoins to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj GandalfCoins, aby se operace dokončila</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ například: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. GandalfCoin is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. GandalfCoin už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. GandalfCoins is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. GandalfCoins už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <location line="+64"/>

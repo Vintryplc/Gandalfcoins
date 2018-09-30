@@ -6,13 +6,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GandalfCoin</source>
-        <translation>About GandalfCoin</translation>
+        <source>About GandalfCoins</source>
+        <translation>About GandalfCoins</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GandalfCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GandalfCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;GandalfCoins&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;GandalfCoins&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -36,8 +36,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The GandalfCoin developers</source>
-        <translation>The GandalfCoin developers</translation>
+        <source>The GandalfCoins developers</source>
+        <translation>The GandalfCoins developers</translation>
     </message>
 </context>
 <context>
@@ -69,8 +69,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your GandalfCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your GandalfCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your GandalfCoins addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your GandalfCoins addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -84,8 +84,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GandalfCoin address</source>
-        <translation>Sign a message to prove you own a GandalfCoin address</translation>
+        <source>Sign a message to prove you own a GandalfCoins address</source>
+        <translation>Sign a message to prove you own a GandalfCoins address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -109,8 +109,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified GandalfCoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified GandalfCoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified GandalfCoins address</source>
+        <translation>Verify a message to ensure it was signed with a specified GandalfCoins address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -124,8 +124,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your GandalfCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your GandalfCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your GandalfCoins addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your GandalfCoins addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -277,8 +277,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>GandalfCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gandalfcoins from being stolen by malware infecting your computer.</source>
-        <translation>GandalfCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gandalfcoins from being stolen by malware infecting your computer.</translation>
+        <source>GandalfCoins will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gandalfcoinss from being stolen by malware infecting your computer.</source>
+        <translation>GandalfCoins will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gandalfcoinss from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Show information about GandalfCoin</source>
-        <translation>Show information about GandalfCoin</translation>
+        <source>Show information about GandalfCoins</source>
+        <translation>Show information about GandalfCoins</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -421,13 +421,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-341"/>
-        <source>Send coins to a GandalfCoin address</source>
-        <translation>Send coins to a GandalfCoin address</translation>
+        <source>Send coins to a GandalfCoins address</source>
+        <translation>Send coins to a GandalfCoins address</translation>
     </message>
     <message>
         <location line="+52"/>
-        <source>Modify configuration options for GandalfCoin</source>
-        <translation>Modify configuration options for GandalfCoin</translation>
+        <source>Modify configuration options for GandalfCoins</source>
+        <translation>Modify configuration options for GandalfCoins</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -458,8 +458,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-183"/>
         <location line="+6"/>
         <location line="+530"/>
-        <source>GandalfCoin</source>
-        <translation>GandalfCoin</translation>
+        <source>GandalfCoins</source>
+        <translation>GandalfCoins</translation>
     </message>
     <message>
         <location line="-536"/>
@@ -485,8 +485,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+23"/>
         <location line="+2"/>
-        <source>&amp;About GandalfCoin</source>
-        <translation>&amp;About GandalfCoin</translation>
+        <source>&amp;About GandalfCoins</source>
+        <translation>&amp;About GandalfCoins</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -506,13 +506,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your GandalfCoin addresses to prove you own them</source>
-        <translation>Sign messages with your GandalfCoin addresses to prove you own them</translation>
+        <source>Sign messages with your GandalfCoins addresses to prove you own them</source>
+        <translation>Sign messages with your GandalfCoins addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified GandalfCoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified GandalfCoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified GandalfCoins addresses</source>
+        <translation>Verify messages to ensure they were signed with specified GandalfCoins addresses</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -543,15 +543,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-5"/>
         <location line="+5"/>
-        <source>GandalfCoin client</source>
-        <translation>GandalfCoin client</translation>
+        <source>GandalfCoins client</source>
+        <translation>GandalfCoins client</translation>
     </message>
     <message numerus="yes">
         <location line="+143"/>
-        <source>%n active connection(s) to GandalfCoin network</source>
+        <source>%n active connection(s) to GandalfCoins network</source>
         <translation>
-            <numerusform>%n active connection to GandalfCoin network</numerusform>
-            <numerusform>%n active connections to GandalfCoin network</numerusform>
+            <numerusform>%n active connection to GandalfCoins network</numerusform>
+            <numerusform>%n active connections to GandalfCoins network</numerusform>
         </translation>
     </message>
     <message>
@@ -675,8 +675,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid GandalfCoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid GandalfCoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid GandalfCoins address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid GandalfCoins address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -690,8 +690,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. GandalfCoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. GandalfCoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. GandalfCoins can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. GandalfCoins can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -756,8 +756,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GandalfCoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid GandalfCoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid GandalfCoins address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid GandalfCoins address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -775,8 +775,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+493"/>
         <location line="+12"/>
-        <source>GandalfCoin-Qt</source>
-        <translation>GandalfCoin-Qt</translation>
+        <source>GandalfCoins-Qt</source>
+        <translation>GandalfCoins-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -838,13 +838,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GandalfCoin after logging in to the system.</source>
-        <translation>Automatically start GandalfCoin after logging in to the system.</translation>
+        <source>Automatically start GandalfCoins after logging in to the system.</source>
+        <translation>Automatically start GandalfCoins after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GandalfCoin on system login</source>
-        <translation>&amp;Start GandalfCoin on system login</translation>
+        <source>&amp;Start GandalfCoins on system login</source>
+        <translation>&amp;Start GandalfCoins on system login</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -863,8 +863,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GandalfCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the GandalfCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the GandalfCoins client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the GandalfCoins client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -873,8 +873,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GandalfCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the GandalfCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the GandalfCoins network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the GandalfCoins network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -948,8 +948,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GandalfCoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting GandalfCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GandalfCoins.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting GandalfCoins.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -963,8 +963,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GandalfCoin addresses in the transaction list or not.</source>
-        <translation>Whether to show GandalfCoin addresses in the transaction list or not.</translation>
+        <source>Whether to show GandalfCoins addresses in the transaction list or not.</source>
+        <translation>Whether to show GandalfCoins addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1015,8 +1015,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GandalfCoin.</source>
-        <translation>This setting will take effect after restarting GandalfCoin.</translation>
+        <source>This setting will take effect after restarting GandalfCoins.</source>
+        <translation>This setting will take effect after restarting GandalfCoins.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1034,8 +1034,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+202"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GandalfCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the GandalfCoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GandalfCoins network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the GandalfCoins network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-131"/>
@@ -1098,8 +1098,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+109"/>
-        <source>Cannot start gandalfcoin: click-to-pay handler</source>
-        <translation>Cannot start gandalfcoin: click-to-pay handler</translation>
+        <source>Cannot start gandalfcoins: click-to-pay handler</source>
+        <translation>Cannot start gandalfcoins: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1248,8 +1248,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GandalfCoin-Qt help message to get a list with possible GandalfCoin command-line options.</source>
-        <translation>Show the GandalfCoin-Qt help message to get a list with possible GandalfCoin command-line options.</translation>
+        <source>Show the GandalfCoins-Qt help message to get a list with possible GandalfCoins command-line options.</source>
+        <translation>Show the GandalfCoins-Qt help message to get a list with possible GandalfCoins command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1268,13 +1268,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>GandalfCoin - Debug window</source>
-        <translation>GandalfCoin - Debug window</translation>
+        <source>GandalfCoins - Debug window</source>
+        <translation>GandalfCoins - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GandalfCoin Core</source>
-        <translation>GandalfCoin Core</translation>
+        <source>GandalfCoins Core</source>
+        <translation>GandalfCoins Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1283,8 +1283,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GandalfCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the GandalfCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the GandalfCoins debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the GandalfCoins debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1293,8 +1293,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the GandalfCoin RPC console.</source>
-        <translation>Welcome to the GandalfCoin RPC console.</translation>
+        <source>Welcome to the GandalfCoins RPC console.</source>
+        <translation>Welcome to the GandalfCoins RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1478,8 +1478,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a GandalfCoins address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Enter a GandalfCoins address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1543,8 +1543,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GandalfCoin address</source>
-        <translation>Sign the message to prove you own this GandalfCoin address</translation>
+        <source>Sign the message to prove you own this GandalfCoins address</source>
+        <translation>Sign the message to prove you own this GandalfCoins address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1579,8 +1579,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GandalfCoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified GandalfCoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified GandalfCoins address</source>
+        <translation>Verify the message to ensure it was signed with the specified GandalfCoins address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1595,8 +1595,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Enter a GandalfCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a GandalfCoins address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Enter a GandalfCoins address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1605,8 +1605,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GandalfCoin signature</source>
-        <translation>Enter GandalfCoin signature</translation>
+        <source>Enter GandalfCoins signature</source>
+        <translation>Enter GandalfCoins signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1679,8 +1679,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The GandalfCoin developers</source>
-        <translation>The GandalfCoin developers</translation>
+        <source>The GandalfCoins developers</source>
+        <translation>The GandalfCoins developers</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2232,8 +2232,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+98"/>
-        <source>GandalfCoin version</source>
-        <translation>GandalfCoin version</translation>
+        <source>GandalfCoins version</source>
+        <translation>GandalfCoins version</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -2242,8 +2242,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gandalfcoind</source>
-        <translation>Send command to -server or gandalfcoind</translation>
+        <source>Send command to -server or gandalfcoinsd</source>
+        <translation>Send command to -server or gandalfcoinsd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2262,13 +2262,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gandalfcoin.conf)</source>
-        <translation>Specify configuration file (default: gandalfcoin.conf)</translation>
+        <source>Specify configuration file (default: gandalfcoins.conf)</source>
+        <translation>Specify configuration file (default: gandalfcoins.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gandalfcoind.pid)</source>
-        <translation>Specify pid file (default: gandalfcoind.pid)</translation>
+        <source>Specify pid file (default: gandalfcoinsd.pid)</source>
+        <translation>Specify pid file (default: gandalfcoinsd.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2345,24 +2345,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gandalfcoinrpc
+rpcuser=gandalfcoinsrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GandalfCoins Alert&quot; admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gandalfcoinrpc
+rpcuser=gandalfcoinsrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GandalfCoins Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2377,8 +2377,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. GandalfCoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. GandalfCoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. GandalfCoins is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. GandalfCoins is probably already running.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2427,8 +2427,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GandalfCoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GandalfCoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GandalfCoins will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GandalfCoins will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2872,13 +2872,13 @@ for example: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GandalfCoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of GandalfCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GandalfCoins</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of GandalfCoins</translation>
     </message>
     <message>
         <location line="+94"/>
-        <source>Wallet needed to be rewritten: restart GandalfCoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart GandalfCoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart GandalfCoins to complete</source>
+        <translation>Wallet needed to be rewritten: restart GandalfCoins to complete</translation>
     </message>
     <message>
         <location line="-96"/>
@@ -2937,8 +2937,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GandalfCoin Alert&quot; admin@
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. GandalfCoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. GandalfCoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. GandalfCoins is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. GandalfCoins is probably already running.</translation>
     </message>
     <message>
         <location line="+64"/>

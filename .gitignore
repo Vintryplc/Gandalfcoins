@@ -1,7 +1,7 @@
 src/*.exe
-src/gandalfcoin
-src/gandalfcoind
-src/test_gandalfcoin
+src/gandalfcoins
+src/gandalfcoinsd
+src/test_gandalfcoins
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_gandalfcoin
 *.orig
 *.o
 *.patch
-.gandalfcoin
+.gandalfcoins
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-gandalfcoin-qt
-gandalfcoin-Qt.app
+gandalfcoins-qt
+gandalfcoins-Qt.app
 
 # Unit-tests
 Makefile.test
-gandalfcoin-qt_test
+gandalfcoins-qt_test
 
 # Resources cpp
 qrc_*.cpp

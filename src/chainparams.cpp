@@ -134,7 +134,7 @@ public:
 
         vFixedSeeds.clear();
         vSeeds.clear();
-        // vSeeds.push_back(CDNSSeedData("gandalfcoin.test", "test.gandalfcoin.org"));
+        // vSeeds.push_back(CDNSSeedData("gandalfcoins.test", "test.gandalfcoins.org"));
 
         base58Prefixes[PUBKEY_ADDRESS] = 130;
         base58Prefixes[SCRIPT_ADDRESS] = 30;
